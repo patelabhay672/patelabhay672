@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 📫 How to reach me **patelabhay0302**
+- 📫 How to reach me **patelabhay0302@gmail.com**
 
 - 📄 Know about my experiences [abhay672.in](abhay672.in)
 
