@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/abhaypatel15965" target="blank"><img src="https://img.shields.io/twitter/follow/abhaypatel15965?logo=twitter&style=for-the-badge" alt="abhaypatel15965" /></a> </p>
 
-- 🔭 I’m currently working on **Ecommerce Web Site**
+- 🔭 I’m currently working on **ThreeJS as a employee**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **NextJS & NestJS**
 
 - 📫 How to reach me **patelabhay0302@gmail.com**
 
